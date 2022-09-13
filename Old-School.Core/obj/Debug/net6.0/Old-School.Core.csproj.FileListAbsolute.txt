@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Old-School\Old-School.Core\bin\Debug\net6.0\Old-School.Core.deps.json
+C:\Users\hp\source\repos\Old-School\Old-School.Core\bin\Debug\net6.0\Old-School.Core.runtimeconfig.json
+C:\Users\hp\source\repos\Old-School\Old-School.Core\bin\Debug\net6.0\Old-School.Core.dll
+C:\Users\hp\source\repos\Old-School\Old-School.Core\bin\Debug\net6.0\Old-School.Core.pdb
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\Old-School.Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\Old-School.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\Old-School.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\Old-School.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\Old-School.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\Old-School.Core.dll
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\refint\Old-School.Core.dll
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\Old-School.Core.pdb
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\Old-School.Core.genruntimeconfig.cache
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\ref\Old-School.Core.dll
+C:\Users\hp\source\repos\Old-School\Old-School.Core\bin\Debug\net6.0\Old-School.Data.dll
+C:\Users\hp\source\repos\Old-School\Old-School.Core\bin\Debug\net6.0\Old-School.Data.pdb
+C:\Users\hp\source\repos\Old-School\Old-School.Core\obj\Debug\net6.0\Old-School.Core.csproj.CopyComplete
